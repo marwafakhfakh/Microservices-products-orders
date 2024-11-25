@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp.net\\MicroservicesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|d:\\asp.net\\microservicesapp\\ordersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|d:\\asp.net\\microservicesapp\\ordersapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|d:\\asp.net\\microservicesapp\\ordersapi\\data\\ordersapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\data\\ordersapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B40C62-A44E-4DD9-9D4D-C89F9851AA6E}|ProductAPI\\ProductAPI.csproj|d:\\asp.net\\microservicesapp\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B40C62-A44E-4DD9-9D4D-C89F9851AA6E}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|d:\\asp.net\\microservicesapp\\ordersapi\\consumer\\productcreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\consumer\\productcreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|d:\\asp.net\\microservicesapp\\ordersapi\\ordersapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\ordersapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0A490A-971C-4A19-A5F4-2C0AAB40FA53}|..\\WebAPI\\Shared\\Shared.csproj|d:\\asp.net\\webapi\\shared\\productcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B40C62-A44E-4DD9-9D4D-C89F9851AA6E}|ProductAPI\\ProductAPI.csproj|d:\\asp.net\\microservicesapp\\productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B40C62-A44E-4DD9-9D4D-C89F9851AA6E}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|d:\\asp.net\\microservicesapp\\ordersapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B40C62-A44E-4DD9-9D4D-C89F9851AA6E}|ProductAPI\\ProductAPI.csproj|d:\\asp.net\\microservicesapp\\productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15B40C62-A44E-4DD9-9D4D-C89F9851AA6E}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|d:\\asp.net\\microservicesapp\\ordersapi\\migrations\\ordersapicontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\migrations\\ordersapicontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|d:\\asp.net\\microservicesapp\\ordersapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565F27B5-C5AB-4938-B4EF-25EB0A910CFC}|ApiGateway\\ApiGateway.csproj|d:\\asp.net\\microservicesapp\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{565F27B5-C5AB-4938-B4EF-25EB0A910CFC}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565F27B5-C5AB-4938-B4EF-25EB0A910CFC}|ApiGateway\\ApiGateway.csproj|d:\\asp.net\\microservicesapp\\apigateway\\apigateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{565F27B5-C5AB-4938-B4EF-25EB0A910CFC}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565F27B5-C5AB-4938-B4EF-25EB0A910CFC}|ApiGateway\\ApiGateway.csproj|d:\\asp.net\\microservicesapp\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{565F27B5-C5AB-4938-B4EF-25EB0A910CFC}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|d:\\asp.net\\microservicesapp\\ordersapi\\migrations\\20241112182121_dbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\migrations\\20241112182121_dbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|d:\\asp.net\\microservicesapp\\ordersapi\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B40C62-A44E-4DD9-9D4D-C89F9851AA6E}|ProductAPI\\ProductAPI.csproj|d:\\asp.net\\microservicesapp\\productapi\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B40C62-A44E-4DD9-9D4D-C89F9851AA6E}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B40C62-A44E-4DD9-9D4D-C89F9851AA6E}|ProductAPI\\ProductAPI.csproj|d:\\asp.net\\microservicesapp\\productapi\\migrations\\20241112181200_dbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B40C62-A44E-4DD9-9D4D-C89F9851AA6E}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\migrations\\20241112181200_dbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|d:\\asp.net\\microservicesapp\\ordersapi\\migrations\\20241118192655_addproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A13BFA-6F2A-40B7-A308-89603F11EDE5}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\migrations\\20241118192655_addproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "OrdersAPI\\appsettings.json",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\appsettings.json",
+              "RelativeToolTip": "OrdersAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T12:17:18.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Program.cs",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Program.cs",
+              "RelativeToolTip": "OrdersAPI\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwCgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:44:26.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductCreated.cs",
+              "DocumentMoniker": "D:\\asp.net\\WebAPI\\Shared\\ProductCreated.cs",
+              "RelativeDocumentMoniker": "..\\WebAPI\\Shared\\ProductCreated.cs",
+              "ToolTip": "D:\\asp.net\\WebAPI\\Shared\\ProductCreated.cs",
+              "RelativeToolTip": "..\\WebAPI\\Shared\\ProductCreated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:42:10.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCreatedConsumer.cs",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Consumer\\ProductCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Consumer\\ProductCreatedConsumer.cs",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Consumer\\ProductCreatedConsumer.cs",
+              "RelativeToolTip": "OrdersAPI\\Consumer\\ProductCreatedConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:33:28.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241118192655_addproducttable.cs",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Migrations\\20241118192655_addproducttable.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Migrations\\20241118192655_addproducttable.cs",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Migrations\\20241118192655_addproducttable.cs",
+              "RelativeToolTip": "OrdersAPI\\Migrations\\20241118192655_addproducttable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:26:55.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersAPIContext.cs",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Data\\OrdersAPIContext.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Data\\OrdersAPIContext.cs",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Data\\OrdersAPIContext.cs",
+              "RelativeToolTip": "OrdersAPI\\Data\\OrdersAPIContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:16:48.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersAPIContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Migrations\\OrdersAPIContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Migrations\\OrdersAPIContextModelSnapshot.cs",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Migrations\\OrdersAPIContextModelSnapshot.cs",
+              "RelativeToolTip": "OrdersAPI\\Migrations\\OrdersAPIContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:16:00.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Product.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Product.cs",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Product.cs",
+              "RelativeToolTip": "OrdersAPI\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:14:41.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Program.cs",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\ProductAPI\\Program.cs",
+              "RelativeToolTip": "ProductAPI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:27:42.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiGateway",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\ApiGateway\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\ApiGateway\\ApiGateway.csproj",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T19:42:46.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\ApiGateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Ocelot.json",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\ApiGateway\\Ocelot.json",
+              "RelativeToolTip": "ApiGateway\\Ocelot.json",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwCUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T19:42:12.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T19:42:09.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241112182121_dbcreate.cs",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Migrations\\20241112182121_dbcreate.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Migrations\\20241112182121_dbcreate.cs",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Migrations\\20241112182121_dbcreate.cs",
+              "RelativeToolTip": "OrdersAPI\\Migrations\\20241112182121_dbcreate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:21:21.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrdersAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:20:28.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersAPI.csproj",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\OrdersAPI.csproj",
+              "RelativeDocumentMoniker": "OrdersAPI\\OrdersAPI.csproj",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\OrdersAPI.csproj",
+              "RelativeToolTip": "OrdersAPI\\OrdersAPI.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T18:14:57.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Orders.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Orders.cs",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\OrdersAPI\\Orders.cs",
+              "RelativeToolTip": "OrdersAPI\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:15:09.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241112181200_dbcreate.cs",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\ProductAPI\\Migrations\\20241112181200_dbcreate.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Migrations\\20241112181200_dbcreate.cs",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\ProductAPI\\Migrations\\20241112181200_dbcreate.cs",
+              "RelativeToolTip": "ProductAPI\\Migrations\\20241112181200_dbcreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:12:01.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\ProductAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\ProductAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAuwFYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:08:19.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductAPI.csproj",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\ProductAPI\\ProductAPI.csproj",
+              "RelativeDocumentMoniker": "ProductAPI\\ProductAPI.csproj",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\ProductAPI\\ProductAPI.csproj",
+              "RelativeToolTip": "ProductAPI\\ProductAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T17:58:12.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\asp.net\\MicroservicesApp\\ProductAPI\\Products.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Products.cs",
+              "ToolTip": "D:\\asp.net\\MicroservicesApp\\ProductAPI\\Products.cs",
+              "RelativeToolTip": "ProductAPI\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:58:39.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
